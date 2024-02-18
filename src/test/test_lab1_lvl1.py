@@ -1,7 +1,7 @@
 import unittest
-from src.lab_1.lab_1_lvl_1 import square_sorted_list
-# print(square_sorted_list([1, 2, 3], [1, 2, 3, 4]))
-
+import sys 
+sys.path.append('D:\\University\\Algo_part_2\\plactice_algo_labs_part_2\\src\\')
+from lab_1.lab_1_lvl_1 import square_sorted_list
 
 class TestLab(unittest.TestCase):
     def test_subarray_true(self):

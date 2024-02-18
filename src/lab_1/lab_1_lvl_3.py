@@ -38,8 +38,8 @@ def peek_sequence(nums):
         k += 1
     return peek_s
 
-print(peek_sequence([1, 3, 5, 4, 2, 8, 3, 7, 6, 5]))
-print(peek_sequence([1, 3, 5, 4, 2, 8, 3, 7, 6, 5, 4, 3, 2, 1]))
+# print(peek_sequence([1, 3, 5, 4, 2, 8, 3, 7, 6, 5]))
+# print(peek_sequence([1, 3, 5, 4, 2, 8, 3, 7, 6, 5, 4, 3, 2, 1]))
 
 
 ################# Variant 1 not completed ################
